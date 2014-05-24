@@ -56,10 +56,14 @@ macro class {
   }
 }
 
-class AboutRoute {
-  init() {
+export class;
 
+macro foo {
+  rule {
+
+  } => {
+    'hello';
   }
 }
 
-var foo = new AboutRoute();
+export foo;

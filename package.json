@@ -1,14 +1,15 @@
 {
-  "name": "sweete",
+  "name": "ember-sweet",
   "description": "lolidunno",
   "version": "0.1.0",
   "author": "Jay Phelps <hello@jayphelps.com>",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/jayphelps/sweete"
+    "url": "https://github.com/jayphelps/ember-sweet"
   },
   "devDependencies": {
+    "sweet.js": "^0.6.0",
     "broccoli": "^0.12.0",
     "broccoli-sweetjs": "^0.3.0",
     "broccoli-uglify-js": "^0.1.0",
