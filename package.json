@@ -1,7 +1,7 @@
 {
   "name": "sweete",
   "description": "lolidunno",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "author": "Jay Phelps <hello@jayphelps.com>",
   "license": "MIT",
   "repository": {
@@ -13,5 +13,6 @@
     "broccoli-sweetjs": "^0.3.0",
     "broccoli-uglify-js": "^0.1.0",
     "broccoli-es6-concatenator": "^0.1.4",
+    "broccoli-merge-trees": "^0.1.3"
   }
 }
